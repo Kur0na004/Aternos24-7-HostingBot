@@ -2,11 +2,11 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "YourBotUsername",
-    "password": "",
+    "password": "35638",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": gilles-G0bp.aternos.me,
     "port": 25565,
     "version": "",
     "try-creative": false
